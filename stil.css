@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+p {
+    color: #000030;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    width: 200px;
+    background-color: #acd4df;
+    padding: 10px;
+}
+.paragraf_1 {color: #000030; background-color: rgba(152, 160, 238, 0.3); }
+.novi_blok {
+     background-color: rgba(152, 160, 238, 0.3);
+     padding: 10px;
+     margin: 10px;
+     width: 200px;
+}
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #162087;
+}
+body {
+    background-image: url("Slike/background.jpg");
+}
+mark {
+    background-color: #f3e8a2;
+}
+
+a:link {
+    color: black;
+    background-color: white;
+    padding: 10px
+    border: 2px solid black;
+}
+a:hover {
+    background-color: darkgrey;
+}
+a:visited {
+    background-color: #f3949b;
+}
+a:active {
+    background-color: #fcea96;
+}
+img {
+    height: 100px;
+}
